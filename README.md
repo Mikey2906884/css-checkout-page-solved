@@ -17,8 +17,8 @@ bar. This will open your webpage in your browser.
 If you are not using VSCode you can install and run the "live-server" npm
 package following the list of commands:
 
-- [ ] Use npm i live-server to install the live-server package
-- [ ] Use npm run live-server or npx live-server --port=5551 to run the
+- [x] Use npm i live-server to install the live-server package
+- [x] Use npm run live-server or npx live-server --port=5551 to run the
       live-server. The port number should be 5551 strictly.
 
 The live-server installation video:
@@ -57,15 +57,15 @@ This assignment should prove that a student is able to:
       "[w3c web validator](https://marketplace.visualstudio.com/items?itemName=CelianRiboulet.webvalidator)"
       VSCode extension or the
       "[Online w3c Markup Validation Service](https://validator.w3.org/#validate_by_input)")
-- [ ] The code MUST be formatted with Prettier.
-- [ ] Push the changes to the Github repo, when finished.
-- [ ] Submit a .txt file with the Github repo url.
+- [x] The code MUST be formatted with Prettier.
+- [x] Push the changes to the Github repo, when finished.
+- [x] Submit a .txt file with the Github repo url.
 
 ## Specific requirements
 
 For the styles.css file:
 
-- [ ] Find and fix all the syntax issues in the file
+- [x] Find and fix all the syntax issues in the file
   - There are commented out hints for you to find the CSS rules with incorrect
     syntax
   - When running tests, the failed test message contains the CSS file line
